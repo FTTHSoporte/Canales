@@ -1,0 +1,602 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="Religiosos" tvg-name="3ABN USA",3ABN USA EN
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lateja.cr/resizer/-DFDhxQtXFGJd3KE5grR6xTspiY=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/7XNAF5RQQVDYBBDVB7X35MDVYA.png" group-title="Costa Rica" tvg-name="Canal 8 TeleDiario", Canal 8 TeleDiario
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1,LA_SD:CR_TELETICA 7
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/10328.m3u8
+#EXTINF:-1,LA_SD:CR_4 Repretel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/10581.m3u8
+#EXTINF:-1,LA_SD:CR_REPRETEL 6
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/10582.m3u8
+#EXTINF:-1,LA_SD:CR_REPRETEL 11
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/10583.m3u8
+#EXTINF:-1,LA_SD:CR_MULTIMEDIOS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/73394.m3u8
+#EXTINF:-1,LA_SD:CR_EXTRA TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/73632.m3u8
+#EXTINF:-1,LA_SD:CR_SINART 13
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74758.m3u8
+#EXTINF:-1,LA_HD:CR TD+2-B
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75834.m3u8
+#EXTINF:-1,LA_HD:CR TD+-B
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75835.m3u8
+#EXTINF:-1,LA_HD:TIGO SPORTS COST
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75879.m3u8
+#EXTINF:-1,LA_SD:CR_FUTV GRITALO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75396.m3u8
+#EXTINF:-1,LA_SD:CR_FUTV GRITALO-
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75400.m3u8
+#EXTINF:-1,LA_HD:CR_FUTV GRITALO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/73963.m3u8
+#EXTINF:-1,LA_HD:CR_FUTV GRITALO-
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75399.m3u8
+#Deportes
+#EXTINF:-1,*ARG_SD:ESPN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75758.m3u8
+#EXTINF:-1,*ARG_SD: ESPN 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75759.m3u8
+#EXTINF:-1,*ARG_SD: ESPN 3
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75760.m3u8
+#EXTINF:-1,*ARG_SD: ESPN+
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75764.m3u8
+#EXTINF:-1,*ARG_HD:ESPN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60560.m3u8
+#EXTINF:-1,*ARG_HD:ESPN 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60559.m3u8
+#EXTINF:-1,*ARG_HD:ESPN 3
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60558.m3u8
+#EXTINF:-1,*ARG_SD: FOX SPORTS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75761.m3u8
+#EXTINF:-1,*ARG_SD: FOX SPORTS 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75762.m3u8
+#EXTINF:-1,*ARG_SD: FOX SPORTS 3
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75763.m3u8
+#EXTINF:-1,AR: beIN SPORTS 1 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72307.m3u8
+#EXTINF:-1,AR: beIN SPORTS 2 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72308.m3u8
+#EXTINF:-1,AR: beIN SPORTS 3 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72309.m3u8
+#EXTINF:-1,AR: beIN SPORTS 4 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72310.m3u8
+#EXTINF:-1,AR: beIN SPORTS 5 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72311.m3u8
+#EXTINF:-1,AR: beIN SPORTS 6 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72312.m3u8
+#EXTINF:-1,AR: beIN SPORTS 8 FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72314.m3u8
+#EXTINF:-1,AR: beIN SPORTS 1 HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/72316.m3u8
+#Peliculas
+#EXTINF:-1,*ARG_SD: HBO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75766.m3u8
+#EXTINF:-1,*ARG_SD: HBO 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75767.m3u8
+#EXTINF:-1,*ARG_SD: HBO PLUS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75768.m3u8
+#EXTINF:-1,*ARG_SD: HBO SIGNATURE
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75769.m3u8
+#EXTINF:-1,*ARG_SD: HBO FAMILY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75770.m3u8
+#EXTINF:-1,*ARG_SD:FX
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75772.m3u8
+#EXTINF:-1,*ARG_SD:NAT GEO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75774.m3u8
+#EXTINF:-1,*ARG_SD:STUDIO UNIVERSAL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75777.m3u8
+#EXTINF:-1,*ARG_SD:UNIVERSAL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75778.m3u8
+#EXTINF:-1,*ARG_SD:TNT
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75779.m3u8
+#EXTINF:-1,*ARG_SD:CINECANAL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75780.m3u8
+#EXTINF:-1,*ARG_SD:BABY TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75781.m3u8
+#EXTINF:-1,*ARG_SD:DISNEY JUNIOR
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75783.m3u8
+#EXTINF:-1,*ARG_SD:HISTORY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75784.m3u8
+#EXTINF:-1,*ARG_SD:CINEMAX
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75785.m3u8
+#EXTINF:-1,*ARG_SD:A&E
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75786.m3u8
+#EXTINF:-1,*ARG_SD:WARNER
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75787.m3u8
+#EXTINF:-1,*ARG_SD:AXN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75788.m3u8
+#EXTINF:-1,*ARG_SD:SONY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75789.m3u8
+#EXTINF:-1,*ARG_SD:AMC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75790.m3u8
+#EXTINF:-1,*ARG_SD:SPACE
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75791.m3u8
+#EXTINF:-1,*ARG_SD:NICKELODEON JR
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75792.m3u8
+#EXTINF:-1,*ARG_SD:CARTOON NETWORK
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75793.m3u8
+#EXTINF:-1,*ARG_SD:COMEDY CENTRAL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75794.m3u8
+#EXTINF:-1,*ARG_SD:EUROPA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75795.m3u8
+#EXTINF:-1,*ARG_SD:SYFY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75796.m3u8
+#EXTINF:-1,*ARG_SD:LIFETIME
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75797.m3u8
+#EXTINF:-1,*ARG_SD:BOOMERANG
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75798.m3u8
+#EXTINF:-1,*ARG_SD:TNT SPORTS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75799.m3u8
+#EXTINF:-1,*ARG_SD:TNT SERIES
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75800.m3u8
+#EXTINF:-1,*ARG_SD:TBS VERY FUNNY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75801.m3u8
+#EXTINF:-1,*ARG_SD:I-SAT
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75802.m3u8
+#EXTINF:-1,*ARG_SD:TCM
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75803.m3u8
+#EXTINF:-1,*ARG_SD:FILM & ARTS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75804.m3u8
+#EXTINF:-1,*ARG_SD:TOONCAST
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75805.m3u8
+#EXTINF:-1,*ARG_SD:H2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75806.m3u8
+#EXTINF:-1,*ARG_SD:MAX UP
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75807.m3u8
+#EXTINF:-1,*ARG_SD:AMERICA TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75808.m3u8
+#EXTINF:-1,*ARG_SD:FOX NEWS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75810.m3u8
+#EXTINF:-1,*ARG_SD:CNN INT
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75813.m3u8
+#EXTINF:-1,*ARG_SD:CNN EN ESPANIOL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75814.m3u8
+#EXTINF:-1,*ARG_SD:TYC SPORTS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75815.m3u8
+#EXTINF:-1,*ARG_SD:HBO SIGNATURE
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75816.m3u8
+#EXTINF:-1,AR: EURONEWS
+#NOTICIAS
+#EXTINF:-1,*ARG_HD:CNN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60573.m3u8
+#EXTINF:-1,*ARG_HD:CNN en Español
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60572.m3u8
+#EXTINF:-1,ARG_2: CNN Internacional
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75926.m3u8
+#EXTINF:-1,ARG_2: Animal Planet HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75935.m3u8
+#EXTINF:-1,ARG_2: Discovery Investigation HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75936.m3u8
+#EXTINF:-1,ARG_2: Discovery Theater HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75937.m3u8
+#EXTINF:-1,ARG_2: Discovery Turbo HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75938.m3u8
+#EXTINF:-1,ARG_2: Discovery Home & Health HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75939.m3u8
+#EXTINF:-1,ARG_2: Discovery World HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75940.m3u8
+#EXTINF:-1,ARG_2: RAI Internacional HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76004.m3u8
+#EXTINF:-1,*ARG_HD:Rai Italia
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/60503.m3u8
+#EXTINF:-1,US_HD:American Heroes
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55990.m3u8
+#EXTINF:-1,US_HD:Animal Planet
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55989.m3u8
+#EXTINF:-1,US_HD:Baby TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55988.m3u8
+#EXTINF:-1,US_HD:BBC America HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55987.m3u8
+#EXTINF:-1,US_HD:BBC HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55986.m3u8
+#EXTINF:-1,US_HD:Bein 1
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55985.m3u8
+#EXTINF:-1,US_HD:Fishing SP1
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55984.m3u8
+#EXTINF:-1,US_HD:BET
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55983.m3u8
+#EXTINF:-1,US_HD:Bloomberg TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55982.m3u8
+#EXTINF:-1,US_HD:Bravo HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55981.m3u8
+#EXTINF:-1,US_HD:BTN HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55980.m3u8
+#EXTINF:-1,US_HD:Cartoon Network
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55979.m3u8
+#EXTINF:-1,US_HD:Cartoon Network HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55978.m3u8
+#EXTINF:-1,US_HD:CBS 5 KPHO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55977.m3u8
+#EXTINF:-1,US_HD:CBS Albuquerque
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55976.m3u8
+#EXTINF:-1,US_HD:CBS Baltimore
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55975.m3u8
+#EXTINF:-1,US_HD:CBS Boston
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55974.m3u8
+#EXTINF:-1,US_HD:CBS Columbus
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55973.m3u8
+#EXTINF:-1,US_HD:CBS Kansas
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55972.m3u8
+#EXTINF:-1,US_HD:CBS KTVT
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55971.m3u8
+#EXTINF:-1,US_HD:CBS Los Angeles
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55970.m3u8
+#EXTINF:-1,US_HD:CBS Los Angeles HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55969.m3u8
+#EXTINF:-1,US_HD:CBS Miami
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55968.m3u8
+#EXTINF:-1,US_HD:CBS New Orleans
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55967.m3u8
+#EXTINF:-1,US_HD:CBS New York
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55966.m3u8
+#EXTINF:-1,US_HD:CBS New York Area
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55965.m3u8
+#EXTINF:-1,US_HD:CBS Philadelphia
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55964.m3u8
+#EXTINF:-1,US_HD:CBS San Fransisco
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55963.m3u8
+#EXTINF:-1,US_HD:CBS SN HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55962.m3u8
+#EXTINF:-1,US_HD:CBS Sports News HQ
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55961.m3u8
+#EXTINF:-1,US_HD:CBS Tampa
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55960.m3u8
+#EXTINF:-1,US_HD:CBS Washington
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55959.m3u8
+#EXTINF:-1,US_HD:CBS Wisconsin
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55958.m3u8
+#EXTINF:-1,US_HD:CBS WKMG Orlando
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55957.m3u8
+#EXTINF:-1,US_HD:Cheddar
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55956.m3u8
+#EXTINF:-1,US_HD:Chelsea TV HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55955.m3u8
+#EXTINF:-1,US_HD:Cinemax
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55954.m3u8
+#EXTINF:-1,US_HD:Cinemax Actionmax
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55953.m3u8
+#EXTINF:-1,US_HD:Cinemax Moremax
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55952.m3u8
+#EXTINF:-1,US_HD:ACTIONMAX 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55951.m3u8
+#EXTINF:-1,US_HD:CMT
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55950.m3u8
+#EXTINF:-1,US_HD:CNBC HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55949.m3u8
+#EXTINF:-1,US_HD:CNBC World HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55948.m3u8
+#EXTINF:-1,US_HD:CNN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55947.m3u8
+#EXTINF:-1,US_HD:CNN HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55946.m3u8
+#EXTINF:-1,US_HD:Comedy Central
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55945.m3u8
+#EXTINF:-1,US_HD:Cooking Channel HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55944.m3u8
+#EXTINF:-1,US_HD:Cozi HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55943.m3u8
+#EXTINF:-1,US_HD:Crime & Investigation
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55942.m3u8
+#EXTINF:-1,US_HD:CSN SN Boston
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55941.m3u8
+#EXTINF:-1,US_HD:CSN SN Cleveland WOIO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55940.m3u8
+#EXTINF:-1,US_HD:CW
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55939.m3u8
+#EXTINF:-1,US_HD:CW Chicago HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55938.m3u8
+#EXTINF:-1,US_HD:CW Philadelphia
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55937.m3u8
+#EXTINF:-1,US_HD:CW San Fransisco
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55936.m3u8
+#EXTINF:-1,US_HD:CW Tampa
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55935.m3u8
+#EXTINF:-1,US_HD:Destination America
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55934.m3u8
+#EXTINF:-1,US_HD:Discovery Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55933.m3u8
+#EXTINF:-1,US_HD:Discovery Science
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55932.m3u8
+#EXTINF:-1,US_HD:Disney Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55931.m3u8
+#EXTINF:-1,US_HD:Disney JR
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55930.m3u8
+#EXTINF:-1,US_HD:VH1
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68020.m3u8
+#EXTINF:-1,US_HD:USA NETWORK
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68021.m3u8
+#EXTINF:-1,US_HD:UNIVISION
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68022.m3u8
+#EXTINF:-1,US_HD:TNT USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68024.m3u8
+#EXTINF:-1,US_HD:The Weather Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68025.m3u8
+#EXTINF:-1,US_HD:Telesistema Canal 11
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68028.m3u8
+#EXTINF:-1,US_HD:Telemundo International
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68029.m3u8
+#EXTINF:-1,US_HD:TELEMUNDO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68030.m3u8
+#EXTINF:-1,US_HD:TELEMICRO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68031.m3u8
+#EXTINF:-1,US_HD:Super Canal 33
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68032.m3u8
+#EXTINF:-1,US_HD:STARZ USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68033.m3u8
+#EXTINF:-1,US_HD:STARZ EDGE USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68036.m3u8
+#EXTINF:-1,US_HD:STARZ EDGE LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68037.m3u8
+#EXTINF:-1,US_HD:STARZ COMEDY USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68038.m3u8
+#EXTINF:-1,US_HD:SPACE LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68040.m3u8
+#EXTINF:-1,US_HD:RD-TELESISTEMA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68044.m3u8
+#EXTINF:-1,US_HD:RD-COLOR VISION
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68046.m3u8
+#EXTINF:-1,US_HD:RD-CDN
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68047.m3u8
+#EXTINF:-1,US_HD:PASIONES
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68049.m3u8
+#EXTINF:-1,US_HD:NICKELODEON
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68050.m3u8
+#EXTINF:-1,US_HD:NBCSB
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68052.m3u8
+#EXTINF:-1,US_HD:NBC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68053.m3u8
+#EXTINF:-1,US_HD:MLB NETWORK
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68055.m3u8
+#EXTINF:-1,US_HD:Home And Health
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68057.m3u8
+#EXTINF:-1,US_HD:Hgtv
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68058.m3u8
+#EXTINF:-1,US_HD:HBO USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68059.m3u8
+#EXTINF:-1,US_HD:HBO SIGNATURE USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68060.m3u8
+#EXTINF:-1,US_HD:HBO SIGNATURE LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68061.m3u8
+#EXTINF:-1,US_HD:HBO LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68062.m3u8
+#EXTINF:-1,US_HD:HBO FAMILY USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68063.m3u8
+#EXTINF:-1,US_HD:HBO FAMILY LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68064.m3u8
+#EXTINF:-1,US_HD:HBO COMEDY USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68065.m3u8
+#EXTINF:-1,US_HD:HBO 2 USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68066.m3u8
+#EXTINF:-1,US_HD:HBO 2 LATINO
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68067.m3u8
+#EXTINF:-1,US_HD:ESPN Deportes
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68070.m3u8
+#EXTINF:-1,US_HD:DISNEY xD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68071.m3u8
+#EXTINF:-1,US_HD:DISNEY JR
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68072.m3u8
+#EXTINF:-1,US_HD:DISNEY CHANNEL
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68073.m3u8
+#EXTINF:-1,US_HD:DISCOVERY FAMILIA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68075.m3u8
+#EXTINF:-1,US_HD:DISCOVERY CHANNEL USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68076.m3u8
+#EXTINF:-1,US_HD:CBS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68080.m3u8
+#EXTINF:-1,US_HD:CARTOON NETWORK
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68081.m3u8
+#EXTINF:-1,US_HD:Antena Latina 7
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68083.m3u8
+#EXTINF:-1,US_HD:AMC USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68084.m3u8
+#EXTINF:-1,US_HD:ABC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/68085.m3u8
+#EXTINF:-1,US_HD:MTV LIVE HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/67686.m3u8
+#EXTINF:-1,US_HD:MTV FHD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/67684.m3u8
+#EXTINF:-1,US_HD:Bein 4
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/66381.m3u8
+#EXTINF:-1,US_HD:Bein 5
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/66380.m3u8
+#EXTINF:-1,US_HD:Bein 6
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/66379.m3u8
+#EXTINF:-1,US_HD: Star
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55995.m3u8
+#EXTINF:-1,US_HD:A&E HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55994.m3u8
+#EXTINF:-1,US_HD:ABC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55993.m3u8
+#EXTINF:-1,US_HD:Action Max
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55992.m3u8
+#EXTINF:-1,US_HD:AMC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/55991.m3u8
+#EXTINF:-1,US_HD2:US beIN Sports Ñ
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74808.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Boston
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74852.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Chicago
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74853.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Dallas
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74854.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Fresno
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74856.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Harlingen
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74857.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Houston
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74858.m3u8
+#EXTINF:-1,USA_HD2:: Telemundo Las Vegas
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/74859.m3u8
+#EXTINF:-1,US_HD:Zona Futbol
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75856.m3u8
+#EXTINF:-1,US_HD:Newsmax
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75858.m3u8
+#EXTINF:-1,US_HD:Weather HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75860.m3u8
+#EXTINF:-1,US_HD:Tastemade
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75861.m3u8
+#EXTINF:-1,US_HD:GAC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75862.m3u8
+#EXTINF:-1,US_HD:Get TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75863.m3u8
+#EXTINF:-1,US_HD:Law & Court
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75864.m3u8
+#EXTINF:-1,US_HD:TVG
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75865.m3u8
+#EXTINF:-1,US_HD:Fox WOFL Orlando
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75866.m3u8
+#EXTINF:-1,US_HD:BBC America HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75867.m3u8
+#EXTINF:-1,US_HD:Fox Portland
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75868.m3u8
+#EXTINF:-1,US_HD:Fox Baltimore
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75869.m3u8
+#EXTINF:-1,US_HD:Fox Sports East
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75870.m3u8
+#EXTINF:-1,US_HD:CBS Columbus
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75871.m3u8
+#EXTINF:-1,US_HD:Fox Hazleton
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75872.m3u8
+#EXTINF:-1,US_HD:Fantasy HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75873.m3u8
+#EXTINF:-1,US_HD:Oxygen HD
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75874.m3u8
+#EXTINF:-1,US_HD:Pac 12 Arizona
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75875.m3u8
+#EXTINF:-1,US_HD:Discovery Family
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/75876.m3u8
+#EXTINF:-1,US_2:National Geographic
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76037.m3u8
+#EXTINF:-1,US_2:KNSD (NBC)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76038.m3u8
+#EXTINF:-1,US_2:Starz Encore Suspense
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76039.m3u8
+#EXTINF:-1,US_2:Investigation Discovery
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76040.m3u8
+#EXTINF:-1,US_2:FOX Sports 1
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76041.m3u8
+#EXTINF:-1,US_2:Disney Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76042.m3u8
+#EXTINF:-1,US_2:NBA TV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76043.m3u8
+#EXTINF:-1,US_2:Starz Cinema
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76044.m3u8
+#EXTINF:-1,US_2:Showtime Women
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76045.m3u8
+#EXTINF:-1,US_2:KTBC (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76046.m3u8
+#EXTINF:-1,US_2:Starz Kids & Family
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76047.m3u8
+#EXTINF:-1,US_2:Starz Edge
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76048.m3u8
+#EXTINF:-1,US_2:WTVT (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76049.m3u8
+#EXTINF:-1,US_2:Lifetime
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76050.m3u8
+#EXTINF:-1,US_2:KRIV (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76051.m3u8
+#EXTINF:-1,US_2:Discovery Familia
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76052.m3u8
+#EXTINF:-1,US_2:WBTS (NBC)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76053.m3u8
+#EXTINF:-1,US_2:TCM
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76054.m3u8
+#EXTINF:-1,US_2:Starz
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76055.m3u8
+#EXTINF:-1,US_2:The Cowboy Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76056.m3u8
+#EXTINF:-1,US_2:Starz Encore Black
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76057.m3u8
+#EXTINF:-1,US_2:truTV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76058.m3u8
+#EXTINF:-1,US_2:Starz Encore Family
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76059.m3u8
+#EXTINF:-1,US_2:Starz Encore Classic
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76060.m3u8
+#EXTINF:-1,US_2:Starz in Black
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76061.m3u8
+#EXTINF:-1,US_2:Utah Jazz
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76062.m3u8
+#EXTINF:-1,US_2:NickToons
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76063.m3u8
+#EXTINF:-1,US_2:Bravo
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76064.m3u8
+#EXTINF:-1,US_2:Comedy Central
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76065.m3u8
+#EXTINF:-1,US_2:ESPN2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76066.m3u8
+#EXTINF:-1,US_2:FX
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76067.m3u8
+#EXTINF:-1,US_2:Showtime 2
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76068.m3u8
+#EXTINF:-1,US_2:USA
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76069.m3u8
+#EXTINF:-1,US_2:A&E
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76070.m3u8
+#EXTINF:-1,US_2:SYFY
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76071.m3u8
+#EXTINF:-1,US_2:American Heroes
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76072.m3u8
+#EXTINF:-1,US_2:WITI (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76073.m3u8
+#EXTINF:-1,US_2:FXX
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76074.m3u8
+#EXTINF:-1,US_2:Lone Star Classics
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76075.m3u8
+#EXTINF:-1,US_2:Time Zone Test
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76076.m3u8
+#EXTINF:-1,US_2:MTV
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76077.m3u8
+#EXTINF:-1,US_2:Travel Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76078.m3u8
+#EXTINF:-1,US_2:Miami Heat
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76079.m3u8
+#EXTINF:-1,US_2:Olympic Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76080.m3u8
+#EXTINF:-1,US_2:Oxygen
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76081.m3u8
+#EXTINF:-1,US_2:WOGX (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76082.m3u8
+#EXTINF:-1,US_2:TeenNick
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76083.m3u8
+#EXTINF:-1,US_2:The Film Detective
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76084.m3u8
+#EXTINF:-1,US_2:KCPQ (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76085.m3u8
+#EXTINF:-1,US_2:FXM
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76086.m3u8
+#EXTINF:-1,US_2:Multimedios Costa Rica
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76087.m3u8
+#EXTINF:-1,US_2:TBS
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76088.m3u8
+#EXTINF:-1,US_2:Discovery Channel
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76089.m3u8
+#EXTINF:-1,US_2:WTTG (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76090.m3u8
+#EXTINF:-1,US_2:WFLD (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76091.m3u8
+#EXTINF:-1,US_2:CBS News
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76092.m3u8
+#EXTINF:-1,US_2:TLC
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76093.m3u8
+#EXTINF:-1,US_2:Showtime Family Zone
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76094.m3u8
+#EXTINF:-1,US_2:NFL RedZone
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76095.m3u8
+#EXTINF:-1,US_2:WAGA (FOX)
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76096.m3u8
+#EXTINF:-1,US_2:Showtime
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76097.m3u8
+#EXTINF:-1,US_2:WAPA America
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76098.m3u8
+#EXTINF:-1,US_2:Nuestra Tele
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76099.m3u8
+#EXTINF:-1,US_2:NFL Network
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76100.m3u8
+#EXTINF:-1,US_2:Starz West
+http://shashe.dianshiwang.vip:27000/live/CR_LimOn/t5paf68bK1/76101.m3u8
+
+
+
